@@ -23,3 +23,28 @@ public:
 		 return pre;
     }
 };
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution 
+{
+public:
+    ListNode* reverseList(ListNode* head) 
+    {
+       ListNode *tmp=NULL;//辅助结点
+       while(head!=NULL)
+       {
+           ListNode* next=head->next;
+           head->next=tmp;//更新head结点的指针域
+           tmp=head;//从NULL开始 tmp不断指向第1、2...个结点
+           head=next;//更新head结点
+       }
+        return tmp;
+    }
+};
