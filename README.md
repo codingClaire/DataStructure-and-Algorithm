@@ -4,6 +4,7 @@
 # Leetcode
 | ID   | Title                                    | Difficulty |                    Tag                    |                    FirstTime                    |
 | ---- | :--------------------------------------- | :--------: | :---------------------------------------: | :--------------------------------------: |
+| 020 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/20.cpp)
 | 021  |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy| Linked list|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/21.cpp)
 | 026  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |    Easy    |    Array    | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/26.cpp) |
 | 027  | [Remove Element](https://leetcode.com/problems/remove-element/)|  Easy |  Array|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/27.cpp) |
