@@ -8,6 +8,8 @@
 | 021  |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy| Linked list|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/21.cpp)
 | 026  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |    Easy    |    Array    | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/26.cpp) |
 | 027  | [Remove Element](https://leetcode.com/problems/remove-element/)|  Easy |  Array|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/27.cpp) |
+| 083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|删除链表中的相同元素|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/83.cpp)|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|判断是否是循环链表|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/141.cpp)
 | 206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| Easy | Linked list|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/27.cpp)|
 | 225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  Easy  | Stack、queue | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/225.cpp)
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|   Easy   |   Stack、queue  | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/232.cpp)|
