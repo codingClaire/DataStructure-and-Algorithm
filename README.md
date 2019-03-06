@@ -18,7 +18,8 @@
 | 0225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  Easy  | Stack、queue | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/225.cpp)
 | 0232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|   Easy   |   Stack、queue  | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/232.cpp)|
 |0344| [Reverse String](https://leetcode.com/problems/reverse-string/)| Easy | string| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/496.cpp)|
-| 0496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| Easy| Vector| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/496.cpp)
+| 0496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| Easy| Vector| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/496.cpp)|
+| 0654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)| Medium | 一个序列 最大值是根节点，然后将整个树以根节点为界分为左右两支，vector的截取assign()函数| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/496.cpp)|
 | 0682  | [Baseball Game](https://leetcode.com/problems/baseball-game/) |    Easy    |    Stack    | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/682.cpp) |
 | 0807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)| Medium | vector的简单使用，应该有更快速的解法| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/807.cpp)|
 | 0824 |[Goat Latin](https://leetcode.com/problems/goat-latin/)| Easy| String |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/824.cpp) |
