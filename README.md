@@ -25,4 +25,5 @@
 | 0824 |[Goat Latin](https://leetcode.com/problems/goat-latin/)| Easy| String |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/824.cpp) |
 | 0844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|  Easy  | String、vector   | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/844.cpp)|
 | 0876  |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| Easy| Linked list |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/876.cpp)|
+| 0950  |[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|Medium |vector各种操作的综合，题目意思需要转化成vector操作|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/950.cpp)|
 | 1002  |[Find Common Characters](https://leetcode.com/problems/find-common-characters/)| Easy|找到多个单词重复的字母并且输出同样个数的相同字符 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/1002.cpp)|
