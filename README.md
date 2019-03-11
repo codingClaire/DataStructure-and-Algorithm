@@ -4,6 +4,7 @@
 # Leetcode
 | ID   | Title                                    | Difficulty |                    Tag                    |                    FirstTime                    |
 | ---- | :--------------------------------------- | :--------: | :---------------------------------------: | :--------------------------------------: |
+| 0001 |[Add Two Numbers](https://leetcode.com/problems/two-sum/submissions/) | Easy | 在一个数列中找到相加等于给定值的两个数的下标 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/1.cpp)|
 | 0002 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | 给定两个反向链表，求相加的反向链表 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/2.cpp)|
 | 0003 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 求给定字符串中最长的没有相同字符的连续子序列 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/3.cpp)|
 | 0007 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | 给定整数反向输出，如果溢出返回0 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/7.cpp)|
