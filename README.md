@@ -8,6 +8,7 @@
 | 0002 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | 给定两个反向链表，求相加的反向链表 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/2.cpp)|
 | 0003 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 求给定字符串中最长的没有相同字符的连续子序列 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/3.cpp)|
 | 0005 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 求给定字符串中最长的回文子串 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/5.cpp)|
+| 0006 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | 求横着读之字形的字符串 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/6.cpp)|
 | 0007 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | 给定整数反向输出，如果溢出返回0 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/7.cpp)|
 | 0020 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/20.cpp)
 | 0021  |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy| Linked list|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/21.cpp)
