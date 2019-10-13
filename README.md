@@ -2,8 +2,8 @@
 
 
 # Leetcode
-| ID   | Title                                    | Difficulty |                    Tag                    |                    FirstTime                    |
-| ---- | :--------------------------------------- | :--------: | :---------------------------------------: | :--------------------------------------: |
+| ID   | Title   | Difficulty |Description| FirstTime|Tag|
+| ---- | :--------------------------------------- | :--------: | :----:|:---------------------------------------: | :--------------------------------------: |
 | 0001 |[Add Two Numbers](https://leetcode.com/problems/two-sum/submissions/) | Easy | 在一个数列中找到相加等于给定值的两个数的下标 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/1.cpp)|
 | 0002 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | 给定两个反向链表，求相加的反向链表 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/2.cpp)|
 | 0003 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 求给定字符串中最长的没有相同字符的连续子序列 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/3.cpp)|
@@ -22,11 +22,13 @@
 | 0232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|   Easy   |   Stack、queue  | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/232.cpp)|
 |0344| [Reverse String](https://leetcode.com/problems/reverse-string/)| Easy | string| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/496.cpp)|
 | 0496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| Easy| Vector| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/496.cpp)|
+| 0537| [complex number multiplication](https://leetcode.com/problems/complex-number-multiplication/)|Medium| 两个复数相乘，返回结果|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/537.cpp)|string/atoi和to_string函数的使用|
 | 0654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)| Medium | 一个序列 最大值是根节点，然后将整个树以根节点为界分为左右两支，vector的截取assign()函数| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/496.cpp)|
 | 0682  | [Baseball Game](https://leetcode.com/problems/baseball-game/) |    Easy    |    Stack    | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/682.cpp) |
 | 0807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)| Medium | vector的简单使用，应该有更快速的解法| [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/807.cpp)|
 | 0824 |[Goat Latin](https://leetcode.com/problems/goat-latin/)| Easy| String |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/824.cpp) |
 | 0844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|  Easy  | String、vector   | [C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/844.cpp)|
 | 0876  |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| Easy| Linked list |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/876.cpp)|
+| 0890  |[find and replace pattern](https://leetcode.com/problems/find-and-replace-pattern/)| Medium| 给定字符重复的pattern字符串,查找相同类型的字符串|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/876.cpp)|String/Map/字符匹配|
 | 0950  |[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|Medium |vector各种操作的综合，题目意思需要转化成vector操作|[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/950.cpp)|
 | 1002  |[Find Common Characters](https://leetcode.com/problems/find-common-characters/)| Easy|找到多个单词重复的字母并且输出同样个数的相同字符 |[C++](https://github.com/codingClaire/leetcode/blob/master/FirstTime/1002.cpp)|
